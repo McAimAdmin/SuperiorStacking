@@ -1,0 +1,8 @@
+name: SuperiorStacking
+author: CodePunisher
+version: 1.0
+main: main.Stacker_Main
+
+commands:
+  blockremove:
+    description: remove stacked blocks

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SuperiorStacking:jar">
+    <output-path>$USER_HOME$/Desktop/Server Run (1.8)/plugins</output-path>
+    <root id="archive" name="SuperiorStacking.jar">
+      <element id="module-output" name="SuperiorStacking" />
+    </root>
+  </artifact>
+</component>
